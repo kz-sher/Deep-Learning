@@ -1,4 +1,4 @@
-# Deep-Learning
+# Learning Deep Learning
 
 Website for renting GPU instances:
 
